@@ -200,22 +200,10 @@ C++面试题集锦.PDF [百度网盘链接](https://pan.baidu.com/s/1lk7gTg8zNZW
 
 // TODO 
 
-# 全部汇总
-
-目前我把电子书暂时放在公众号【编程指北】了，扫码关注下面公众号，回复「pdf」
-就有我收集的上百本经典计算机书籍，包含各个方向：
-
-![](https://tva1.sinaimg.cn/large/0081Kckwgy1gm7amsbgaij312w0r0tb6.jpg)
-
-
-![](https://tva1.sinaimg.cn/large/0081Kckwgy1gm7ane27v0j30by0bymxz.jpg)
-
-**微信扫描上方二维码回复「pdf」**
-
 
 # 免责声明
 
 
-书籍全部来源于网络其他人的整理，这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。我的邮箱：2039652520@qq.com
+书籍全部来源于网络其他人的整理，这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。
 
 [![Page Views Count](https://badges.toozhao.com/badges/01F17FZCY8Y12PMT4VJH8JQAQX/green.svg)](https://badges.toozhao.com/stats/01F17FZCY8Y12PMT4VJH8JQAQX "Get your own page views count badge on badges.toozhao.com")
