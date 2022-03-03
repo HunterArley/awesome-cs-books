@@ -8,16 +8,6 @@
 安卓、IOS、数据库、Redis等主流的编程学习书籍。
 
 
-
-**本仓库持续更新中，后续会陆续分享更多经典电子书，墙裂建议大家 Star 下本仓库，下次找书直接 Ctrl + F**
-
-- **[一键领取所有书籍](#全部汇总)**
-
-
-
-**如果国内访问Github网速较慢，可以访问码云：[https://gitee.com/Marvinle/awesome-cs-books](https://gitee.com/Marvinle/awesome-cs-books)**
-
-
 **大神刷题笔记**
 
 - 《LeetCode101（谷歌师兄刷题笔记）》[百度网盘链接](https://pan.baidu.com/s/1PERa4bL7K-FoXit5440YNQ)  密码: 14fn
@@ -28,10 +18,6 @@
 -  阿里霜神-《LeetCode刷题手册》 [百度网盘链接](https://pan.baidu.com/s/1817n69g0eOj7fptRpdR3kQ)  密码: fwtn
 
 
-
-
-
-> **重要说明**：**如果目录无法跳转的话，直接拉下去就可以了**，这些书籍都是在同一个页面的，我只是方便大家找到对应的，弄了一个**页内目录**，不过有部分读者反馈他跳转不了（手机是绝对跳转不了的了）。
 
 
 - [CS四大基础课](#cs四大基础课)
